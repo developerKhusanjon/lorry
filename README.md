@@ -1,2 +1,2 @@
 # lorry
-Cargo packing app powered with FSM
+Sofware packaging application:
