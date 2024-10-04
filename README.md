@@ -1,2 +1,2 @@
 # lorry
-Sofware packaging application:
+Sofware packaging application
