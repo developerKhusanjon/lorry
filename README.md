@@ -1,5 +1,5 @@
 # lorry
-Sofware packaging application
+CI/CD automation tool
 
 Language:
  images(i) containers(c) volumes(v)
