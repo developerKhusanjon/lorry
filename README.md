@@ -1,5 +1,5 @@
 # wave
-CI/CD automation tool
+CI/CD automation tool with modern DSLs
 
 Docker supported features:
  images(i) containers(c) volumes(v)
