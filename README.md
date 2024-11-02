@@ -1,27 +1,27 @@
-# lorry
+# wave
 CI/CD automation tool
 
 Language:
  images(i) containers(c) volumes(v)
 
-  lorry b - build
-  lorry up- compose up
-  lorry down- compose down
-  lorry start 
-  lorry stop
-  lorry run
-  lorry rs - restart
-  lorry spw - spawn
+  wave b - build
+  wave up- compose up
+  wave down- compose down
+  wave start 
+  wave stop
+  wave run
+  wave rs - restart
+  wave spw - spawn
 
 
-  lorry ps - (containers)
-  lorry ls - (images)
-  lorry vs - volumes
-  lorry vm - initialize vm
-  lorry pack - pulls dependencies (extra libraries)
-  lorry rm - removes containers
-  lorry ds -f destroys images
-  lorry el -f removes volumes
+  wave ps - (containers)
+  wave ls - (images)
+  wave vs - volumes
+  wave vm - initialize vm
+  wave pack - pulls dependencies (extra libraries)
+  wave rm - removes containers
+  wave ds -f destroys images
+  wave el -f removes volumes
 
 
   ON - FROM
