@@ -1,7 +1,7 @@
 # wave
 CI/CD automation tool
 
-Language:
+Docker supported features:
  images(i) containers(c) volumes(v)
 
   wave b - build
